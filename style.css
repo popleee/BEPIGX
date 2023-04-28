@@ -1,0 +1,19 @@
+*{
+    margin: 0;padding: 0;
+}
+
+.redes{
+    justify-content:  center; display: flex;
+}
+
+.titulo{
+    padding: 10px;
+}
+
+.seguinos{
+    display: flex;
+    justify-content: center;
+}
+h4{
+    font-size:x-small ;
+}
